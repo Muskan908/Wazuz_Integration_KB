@@ -16,7 +16,7 @@ Step-by-step instructions for installing and configuring Suricata IDS with Wazuh
 
 Helps you detect and analyze network threats using Suricata’s advanced network monitoring capabilities.
 
-Integrate Wazuh with Fortinet Firewall
+Integrate Wazuh with Fortinet Firewall  KB1.docx
 
 A detailed guide to collecting and monitoring Fortinet firewall logs with Wazuh.
 
