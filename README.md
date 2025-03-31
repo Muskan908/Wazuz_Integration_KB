@@ -4,7 +4,7 @@ Welcome to the Wazuh Knowledge Base Repository! This repository contains detaile
 Each guide is designed to provide practical insights, detailed configuration steps, and troubleshooting tips to ensure a seamless Wazuh deployment and integration experience.
 
 📘 **Table of Contents**
-****Wazuh Setup Knowledge Base (All in One)****
+[****Wazuh Setup Knowledge Base (All in One)****](https://github.com/Muskan908/Wazuz_Integration_KB/blob/3ee119917c1ca5bc4e3b70d618f8d39fed3fad4f/Wazuh%20Setup%20Knowledge%20Base%20(All%20in%20one)2.docx)
 
 A comprehensive all-in-one guide covering the installation and configuration of Wazuh, including Elasticsearch, Filebeat, and Kibana.
 
@@ -22,13 +22,13 @@ A detailed guide to collecting and monitoring Fortinet firewall logs with Wazuh.
 
 Provides insights into log forwarding, event correlation, and threat detection using Wazuh’s rule engine.
 
-****Integrating VirusTotal with Wazuh**
-**
+[**Integrating VirusTotal with Wazuh**](https://github.com/Muskan908/Wazuz_Integration_KB/blob/3ee119917c1ca5bc4e3b70d618f8d39fed3fad4f/Wazuh%20Setup%20Knowledge%20Base%20(All%20in%20one)2.docx)
+
 Learn how to integrate VirusTotal with Wazuh to enrich security alerts with real-time threat intelligence.
 
 Includes API configuration and log analysis for detecting malicious activity across your environment.
 
-**Integrating Wazuh with Office365**
+[**Integrating Wazuh with Office365](https://github.com/Muskan908/Wazuz_Integration_KB/blob/3ee119917c1ca5bc4e3b70d618f8d39fed3fad4f/Integrating%20VirusTotal%20with%20Wazuh%20KB1.docx)
 
 Provides step-by-step guidance on integrating Wazuh with Microsoft Office365.
 
